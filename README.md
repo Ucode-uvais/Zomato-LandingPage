@@ -1,2 +1,2 @@
-# Zomato-LandingPage
+# Clone of Zomato Landing Page
  
